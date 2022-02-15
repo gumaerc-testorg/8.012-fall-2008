@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 302b9f29-3b4f-fdf7-bac7-71d21562e5b5
 ---
@@ -31,7 +34,7 @@ READINGS
 {{< tdopen >}}
 Intro and vector definitions
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Chapter 1
 {{< tdclose >}}
 
@@ -52,7 +55,7 @@ Motion in cartesian and polar coordinates
 {{< tdopen >}}
 Newton's laws and forces
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 2
 {{< tdclose >}}
 
@@ -82,7 +85,7 @@ Application of Newton's laws II
 {{< tdopen >}}
 Momentum
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 3
 {{< tdclose >}}
 
@@ -112,7 +115,7 @@ Rocket motion
 {{< tdopen >}}
 Energy
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Chapter 4
 {{< tdclose >}}
 
@@ -151,7 +154,7 @@ Collisions II
 {{< tdopen >}}
 Fixed axis rotation
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Chapter 6
 {{< tdclose >}}
 
@@ -181,7 +184,7 @@ Rotational and translational motion
 {{< tdopen >}}
 Rigid body motion
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Chapter 7
 {{< tdclose >}}
 
