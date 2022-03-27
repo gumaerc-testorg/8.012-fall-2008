@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: d3234428-a195-ac45-47f7-7522856da9ec
 resourcetype: Document
 title: 2007 Exam 2 Solutions
 uid: cb11567d-4f9f-1e8f-ae32-c04b329f2505

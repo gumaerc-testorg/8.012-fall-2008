@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: d3234428-a195-ac45-47f7-7522856da9ec
 resourcetype: Document
 title: 2006 Quiz 2
 uid: 79c38d69-8fe0-c048-caf4-86e49e60a04c

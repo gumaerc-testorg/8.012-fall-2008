@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 8fb36199-f4d5-b9a9-0246-9da3fe199ea6
 resourcetype: Document
 title: Quiz 2 Equations
 uid: c17329ee-fb4e-bc65-4bff-7c4a2276b57c
