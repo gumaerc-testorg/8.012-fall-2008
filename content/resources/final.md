@@ -2,6 +2,7 @@
 content_type: resource
 description: Final exam on classical mechanics.
 file: /courses/8-012-physics-i-classical-mechanics-fall-2008/15cdb14e63ed07c47115ce18c73917bf_final.pdf
+file_size: 474136
 file_type: application/pdf
 learning_resource_types:
 - Exams

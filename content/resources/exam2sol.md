@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to an exam on classical mechanics.
 file: /courses/8-012-physics-i-classical-mechanics-fall-2008/4f115573bb20efc33f9a73454ebca220_exam2sol.pdf
+file_size: 486018
 file_type: application/pdf
 learning_resource_types:
 - Exams

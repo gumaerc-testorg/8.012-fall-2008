@@ -2,6 +2,7 @@
 content_type: resource
 description: Formula sheet for an exam on classical mechanics.
 file: /courses/8-012-physics-i-classical-mechanics-fall-2008/f86d8c266cf4ad86b727856cf12df681_e1equations.pdf
+file_size: 52414
 file_type: application/pdf
 learning_resource_types:
 - Exams

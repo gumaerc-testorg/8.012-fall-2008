@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a final exam on classical mechanics from a previous semester.
 file: /courses/8-012-physics-i-classical-mechanics-fall-2008/f37391e90484436b555dad1d44af831b_final_f05sol.pdf
+file_size: 210097
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

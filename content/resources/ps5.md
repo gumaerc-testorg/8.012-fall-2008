@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on classical mechanics, including estimation and order of
   magnitude approximations.
 file: /courses/8-012-physics-i-classical-mechanics-fall-2008/eb1b3419ca14370702016fe3f4cbc944_ps5.pdf
+file_size: 70436
 file_type: application/pdf
 learning_resource_types:
 - Assignments
