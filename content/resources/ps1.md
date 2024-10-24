@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on classical mechanics and dimensional analysis.
-file: /courses/8-012-physics-i-classical-mechanics-fall-2008/9f7e6c47cbd960c7232d163f31cfdaa8_ps1.pdf
+file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/9f7e6c47cbd960c7232d163f31cfdaa8_ps1.pdf
 file_size: 83134
 file_type: application/pdf
 learning_resource_types:
