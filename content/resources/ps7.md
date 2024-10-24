@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on classical mechanics.
-file: /courses/8-012-physics-i-classical-mechanics-fall-2008/250d4c960c29fd28e5ef63bbb6dba716_ps7.pdf
+file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/250d4c960c29fd28e5ef63bbb6dba716_ps7.pdf
 file_size: 78444
 file_type: application/pdf
 learning_resource_types:
