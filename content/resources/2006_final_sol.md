@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a final exam on classical mechanics from a previous semester.
-file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/6472a8a7677008d74cecfee8c4ec4f17_2006_final_sol.pdf
+file: /courses/8-012-physics-i-classical-mechanics-fall-2008/6472a8a7677008d74cecfee8c4ec4f17_2006_final_sol.pdf
 file_size: 644588
 file_type: application/pdf
 learning_resource_types: []

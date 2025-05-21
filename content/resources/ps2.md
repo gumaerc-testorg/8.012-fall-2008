@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on classical mechanics and order of magnitude estimates.
-file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/cfc1b9fd7a9e9308b3141831ebf47b87_ps2.pdf
+file: /courses/8-012-physics-i-classical-mechanics-fall-2008/cfc1b9fd7a9e9308b3141831ebf47b87_ps2.pdf
 file_size: 84290
 file_type: application/pdf
 learning_resource_types:

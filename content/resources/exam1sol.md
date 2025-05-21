@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to an exam on classical mechanics.
-file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/4592a0f28149124e7a6eee75ee76d934_exam1sol.pdf
+file: /courses/8-012-physics-i-classical-mechanics-fall-2008/4592a0f28149124e7a6eee75ee76d934_exam1sol.pdf
 file_size: 472915
 file_type: application/pdf
 learning_resource_types:
