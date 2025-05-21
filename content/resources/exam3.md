@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam on classical mechanics.
-file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/d1129d8e8f3fd502c036a7898e8ae994_exam3.pdf
+file: /courses/8-012-physics-i-classical-mechanics-fall-2008/d1129d8e8f3fd502c036a7898e8ae994_exam3.pdf
 file_size: 319122
 file_type: application/pdf
 learning_resource_types:
