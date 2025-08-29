@@ -1,9 +1,10 @@
 ---
 content_type: resource
-description: Problem set on classical mechanics.
+description: Problem set on classical mechanics, including estimation and order of
+  magnitude approximations.
 draft: false
-file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/34444c2193275cdea4f6bfbe9029279c_ps3.pdf
-file_size: 34774
+file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/eb1b3419ca14370702016fe3f4cbc944_ps5.pdf
+file_size: 70436
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -17,8 +18,8 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: fd05ad10-10bb-31d3-86de-c3cc2ee31cfe
 resourcetype: Document
-title: Problem Set 3
-uid: 34444c21-9327-5cde-a4f6-bfbe9029279c
+title: Problem Set 5
+uid: eb1b3419-ca14-3707-0201-6fe3f4cbc944
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -31,4 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-Problem set on classical mechanics.
+Problem set on classical mechanics, including estimation and order of magnitude approximations.

@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on classical mechanics.
 draft: false
-file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/34444c2193275cdea4f6bfbe9029279c_ps3.pdf
+file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/c774b0455266aed41c352907aa6d2ec6_ps3.pdf
 file_size: 34774
 file_type: application/pdf
 image_metadata:
@@ -13,12 +13,12 @@ learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Assignments
+parent_title: Related Resources
 parent_type: CourseSection
-parent_uid: fd05ad10-10bb-31d3-86de-c3cc2ee31cfe
+parent_uid: d3234428-a195-ac45-47f7-7522856da9ec
 resourcetype: Document
 title: Problem Set 3
-uid: 34444c21-9327-5cde-a4f6-bfbe9029279c
+uid: c774b045-5266-aed4-1c35-2907aa6d2ec6
 video_files:
   archive_url: ''
   video_captions_file: ''

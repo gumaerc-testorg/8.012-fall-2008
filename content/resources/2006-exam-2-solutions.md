@@ -1,24 +1,24 @@
 ---
 content_type: resource
-description: Problem set on classical mechanics.
+description: Solutions to an exam on classical mechanics from a previous semester.
 draft: false
-file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/34444c2193275cdea4f6bfbe9029279c_ps3.pdf
-file_size: 34774
+file: /ol-ocw-studio-app/courses/8-012-physics-i-classical-mechanics-fall-2008/3f1f6661a3d91a2d3cd3b34f182347f9_2006_quiz2_sol.pdf
+file_size: 458586
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Problem Sets
+- Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Assignments
+parent_title: Related Resources
 parent_type: CourseSection
-parent_uid: fd05ad10-10bb-31d3-86de-c3cc2ee31cfe
+parent_uid: d3234428-a195-ac45-47f7-7522856da9ec
 resourcetype: Document
-title: Problem Set 3
-uid: 34444c21-9327-5cde-a4f6-bfbe9029279c
+title: 2006 Exam 2 Solutions
+uid: 3f1f6661-a3d9-1a2d-3cd3-b34f182347f9
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -31,4 +31,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-Problem set on classical mechanics.
+Solutions to an exam on classical mechanics from a previous semester.
