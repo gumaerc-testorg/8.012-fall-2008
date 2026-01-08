@@ -8,7 +8,7 @@ title: Projects
 uid: 91a43187-fcdf-1039-042b-6c483bad7449
 ---
 
-Sir Isaac Newton developed classical mechanics in the 17th century not just as a mathematical approach to understanding the motions of objects, but also as an experimental science. His book {{% resource_link "5cd324e7-5b6a-4c1c-9e90-7b6380fdd7a0" "Principia" %}} details many experiments used to test the equations he derived from various force laws.
+Sir Isaac Newton developed classical mechanics in the 17th century not just as a mathematical approach to understanding the motions of objects, but also as an experimental science. His book [Principia](http://books.google.com/books?id=XJwx0lnKvOgC&printsec=frontcover) details many experiments used to test the equations he derived from various force laws.
 
 In lieu of a lab, we have designed an assignment which allows you to decide what kind of experiment or investigation in classical mechanics you want to pursue. This project is open-ended; you decide what project you want to do — measure a physical constant, reproduce one of the homework problems, do a numerical simulation of a complex physical problem — and propose your project to the instructors. Once you get the go ahead, go for it! The 8.012 Project is worth 5% of your final grade.
 

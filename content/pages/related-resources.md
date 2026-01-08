@@ -11,7 +11,7 @@ uid: d3234428-a195-ac45-47f7-7522856da9ec
 Video
 -----
 
-A video of the {{% resource_link "4d5c0dbe-d536-4328-bf98-2fd65d6946b1" "Cavendish Experiment" %}} discussed in Lec #19 is available on MIT TechTV.
+A video of the [Cavendish Experiment](http://techtv.mit.edu/videos/1050-cavendish-experiment) discussed in Lec #19 is available on MIT TechTV.
 
 Practice Exams
 --------------
